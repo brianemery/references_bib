@@ -20,5 +20,5 @@ See also, https://flamingtempura.github.io/bibtex-tidy/
 for automatic clean up and sorting of bib files.
 
 Most recent version has many wind, wave and radar cross
-section references (816 total). 
+section references (787 total). 
 
