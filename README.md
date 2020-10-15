@@ -14,6 +14,7 @@ For use with Latex, for example:
   doi = {10.1175/JTECH-D-18-0104.1},
   URL = {https://doi.org/10.1175/JTECH-D-18-0104.1},
 }
+```
 
 See also, https://flamingtempura.github.io/bibtex-tidy/ 
 for automatic clean up and sorting of bib files.
@@ -21,5 +22,3 @@ for automatic clean up and sorting of bib files.
 Most recent version has many wind, wave and radar cross
 section references (816 total). 
 
-
-```
